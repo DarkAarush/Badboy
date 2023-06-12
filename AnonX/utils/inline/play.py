@@ -270,7 +270,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="𐏓꯭꯭ ⃪ɪ⃪𝐁𝐀𝐃 𝐁ⱺ𝗒•❥⏤‌⃝🫧𓆪", url=f"https://t.me/LoVeWordChat"
+                text="𐏓꯭꯭ ⃪ɪ⃪𝐁𝐀𝐃 𝐁ⱺ𝗒•❥⏤𓆪", url=f"https://t.me/LoVeWordChat"
             ),       
             InlineKeyboardButton(
                 text="𝑪𝒍𝒐𝒔𝒆", callback_data="close"
@@ -540,7 +540,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
                 callback_data=f"add_playlist {videoid}",
             ),
             InlineKeyboardButton(
-                text="💋⃝❤️‍🔥𝐁𝐀𝐃 𝐁𝐎𝐘𓆩😈⃝❤️‍🔥𓆩𝐑𝐁𝐆𓆪 💋⃝❤️‍🔥", url=f"https://t.me/LoVeWordChat")
+                text="𐏓꯭꯭ ⃪ɪ⃪𝐁𝐀𝐃 𝐁ⱺ𝗒•❥𓆪", url=f"https://t.me/LoVeWordChat")
         ],
         [
             InlineKeyboardButton(
