@@ -9,7 +9,7 @@ def start_pannel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
     buttons = [
         [
             InlineKeyboardButton(
-                text="𐏓꯭꯭ ⃪ɪ⃪𝐁𝐀𝐃 𝐁ⱺ𝗒•❥⏤‌⃝🫧𓆪 𝚰𐓣 𝐆𝗋ⱺυρ ",
+                text="𐏓꯭꯭ ⃪ɪ⃪𝐁𝐀𝐃 𝐁ⱺ𝗒•❥𓆪 𝚰𐓣 𝐆𝗋ⱺυρ ",
                 url=f"https://t.me/Bad_Music_Tetrisbot?startgroup=true",
             )
         ],
@@ -30,7 +30,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
     buttons = [
         [
             InlineKeyboardButton(
-                text="𐏓꯭꯭ ⃪ɪ⃪𝐁𝐀𝐃 𝐁ⱺ𝗒•❥⏤‌⃝🫧𓆪 𝚰𐓣 𝐆𝗋ⱺυρ",
+                text="𐏓꯭꯭ ⃪ɪ⃪𝐁𝐀𝐃 𝐁ⱺ𝗒•❥𓆪 𝚰𐓣 𝐆𝗋ⱺυρ",
                 url=f"https://t.me/Bad_Music_Tetrisbot?startgroup=true",
             )
         ],
